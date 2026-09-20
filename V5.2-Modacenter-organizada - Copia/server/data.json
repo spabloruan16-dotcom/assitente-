@@ -1,0 +1,97 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "ownerId": "test-merchant",
+      "ownerName": "Loja Moda Center",
+      "name": "Blusa",
+      "description": "",
+      "price": 100,
+      "category": "Feminino",
+      "segments": [],
+      "image": null,
+      "quantity": 8,
+      "variations": [],
+      "discount": 0,
+      "wholesale": null,
+      "salesCount": 2,
+      "ratings": [
+        {
+          "value": 5,
+          "comment": "Ótima"
+        }
+      ],
+      "createdAt": 1788926668857
+    }
+  ],
+  "stores": {
+    "test-merchant": {
+      "name": "Loja Azul",
+      "segments": [
+        "masculino"
+      ],
+      "image": null,
+      "location": {
+        "sector": "Azul",
+        "street": "F",
+        "box": "347"
+      },
+      "createdAt": 1788927412174
+    },
+    "1789326319916-u2yuww1y2": {
+      "name": "ModaEstilos",
+      "segments": [
+        "Moda fitness"
+      ],
+      "image": null,
+      "location": {
+        "sector": "Verde",
+        "street": "G",
+        "box": "234"
+      },
+      "createdAt": 1789326369567
+    }
+  },
+  "orders": [],
+  "chats": [],
+  "presence": {
+    "test-merchant": {
+      "status": "online",
+      "lastSeen": 1788927614444
+    },
+    "test-client": {
+      "status": "offline",
+      "lastSeen": 1788927304678
+    },
+    "style-client": {
+      "status": "online",
+      "lastSeen": 1788973536532
+    },
+    "1789325603191-tcuf6aeaj": {
+      "status": "offline",
+      "lastSeen": 1789326309139
+    },
+    "1789326319916-u2yuww1y2": {
+      "status": "online",
+      "lastSeen": 1789326902370
+    }
+  },
+  "users": [
+    {
+      "id": "1789325603191-tcuf6aeaj",
+      "name": "Leandro",
+      "email": "leandro123@gmail.com",
+      "password": "1234567",
+      "profile": "cliente",
+      "avatar": null
+    },
+    {
+      "id": "1789326319916-u2yuww1y2",
+      "name": "Eduardo Lopes",
+      "email": "eduardopeda20@gmail.com",
+      "password": "eduhm1463",
+      "profile": "comerciante",
+      "avatar": null
+    }
+  ]
+}

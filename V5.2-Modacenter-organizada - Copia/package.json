@@ -1,0 +1,13 @@
+{
+  "name": "moda-center-v5",
+  "version": "5.2.0",
+  "private": true,
+  "description": "Moda Center V5 — base organizada para desenvolvimento web",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
